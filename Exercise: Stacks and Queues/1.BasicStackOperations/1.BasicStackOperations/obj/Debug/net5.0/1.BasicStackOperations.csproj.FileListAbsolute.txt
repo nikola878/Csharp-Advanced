@@ -1,0 +1,16 @@
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\bin\Debug\net5.0\1.BasicStackOperations.exe
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\bin\Debug\net5.0\1.BasicStackOperations.deps.json
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\bin\Debug\net5.0\1.BasicStackOperations.runtimeconfig.json
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\bin\Debug\net5.0\1.BasicStackOperations.runtimeconfig.dev.json
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\bin\Debug\net5.0\1.BasicStackOperations.dll
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\bin\Debug\net5.0\1.BasicStackOperations.pdb
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\obj\Debug\net5.0\1.BasicStackOperations.csproj.AssemblyReference.cache
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\obj\Debug\net5.0\1.BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\obj\Debug\net5.0\1.BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\obj\Debug\net5.0\1.BasicStackOperations.AssemblyInfo.cs
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\obj\Debug\net5.0\1.BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\obj\Debug\net5.0\1.BasicStackOperations.dll
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\obj\Debug\net5.0\refint\1.BasicStackOperations.dll
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\obj\Debug\net5.0\1.BasicStackOperations.pdb
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\obj\Debug\net5.0\1.BasicStackOperations.genruntimeconfig.cache
+C:\Users\5Nitro\source\repos\1.BasicStackOperations\1.BasicStackOperations\obj\Debug\net5.0\ref\1.BasicStackOperations.dll
