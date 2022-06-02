@@ -1,0 +1,16 @@
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\net5.0\Sum Matrix Columns.exe
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\net5.0\Sum Matrix Columns.deps.json
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\net5.0\Sum Matrix Columns.runtimeconfig.json
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\net5.0\Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\net5.0\Sum Matrix Columns.dll
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\net5.0\Sum Matrix Columns.pdb
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.csproj.AssemblyReference.cache
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.dll
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net5.0\refint\Sum Matrix Columns.dll
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.pdb
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net5.0\Sum Matrix Columns.genruntimeconfig.cache
+C:\Users\5Nitro\source\repos\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\net5.0\ref\Sum Matrix Columns.dll
