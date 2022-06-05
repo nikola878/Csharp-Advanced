@@ -1,0 +1,16 @@
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.csproj.AssemblyReference.cache
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.AssemblyInfoInputs.cache
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.AssemblyInfo.cs
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.csproj.CoreCompileInputs.cache
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\bin\Debug\net5.0\Cities by Continent and Country.exe
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\bin\Debug\net5.0\Cities by Continent and Country.deps.json
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\bin\Debug\net5.0\Cities by Continent and Country.runtimeconfig.json
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\bin\Debug\net5.0\Cities by Continent and Country.runtimeconfig.dev.json
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\bin\Debug\net5.0\Cities by Continent and Country.dll
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\bin\Debug\net5.0\Cities by Continent and Country.pdb
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.dll
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net5.0\refint\Cities by Continent and Country.dll
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.pdb
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net5.0\Cities by Continent and Country.genruntimeconfig.cache
+C:\Users\5Nitro\source\repos\Cities by Continent and Country\Cities by Continent and Country\obj\Debug\net5.0\ref\Cities by Continent and Country.dll
