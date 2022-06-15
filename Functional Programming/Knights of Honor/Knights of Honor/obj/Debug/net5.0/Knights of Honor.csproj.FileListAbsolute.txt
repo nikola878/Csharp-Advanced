@@ -1,0 +1,16 @@
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\bin\Debug\net5.0\Knights of Honor.exe
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\bin\Debug\net5.0\Knights of Honor.deps.json
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\bin\Debug\net5.0\Knights of Honor.runtimeconfig.json
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\bin\Debug\net5.0\Knights of Honor.runtimeconfig.dev.json
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\bin\Debug\net5.0\Knights of Honor.dll
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\bin\Debug\net5.0\Knights of Honor.pdb
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\obj\Debug\net5.0\Knights of Honor.csproj.AssemblyReference.cache
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\obj\Debug\net5.0\Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\obj\Debug\net5.0\Knights of Honor.AssemblyInfoInputs.cache
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\obj\Debug\net5.0\Knights of Honor.AssemblyInfo.cs
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\obj\Debug\net5.0\Knights of Honor.csproj.CoreCompileInputs.cache
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\obj\Debug\net5.0\Knights of Honor.dll
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\obj\Debug\net5.0\refint\Knights of Honor.dll
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\obj\Debug\net5.0\Knights of Honor.pdb
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\obj\Debug\net5.0\Knights of Honor.genruntimeconfig.cache
+C:\Users\5Nitro\source\repos\Knights of Honor\Knights of Honor\obj\Debug\net5.0\ref\Knights of Honor.dll
