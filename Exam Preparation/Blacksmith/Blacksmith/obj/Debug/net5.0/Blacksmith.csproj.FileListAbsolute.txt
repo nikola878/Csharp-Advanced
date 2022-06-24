@@ -1,0 +1,16 @@
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\bin\Debug\net5.0\Blacksmith.exe
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\bin\Debug\net5.0\Blacksmith.deps.json
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\bin\Debug\net5.0\Blacksmith.runtimeconfig.json
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\bin\Debug\net5.0\Blacksmith.runtimeconfig.dev.json
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\bin\Debug\net5.0\Blacksmith.dll
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\bin\Debug\net5.0\Blacksmith.pdb
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\obj\Debug\net5.0\Blacksmith.csproj.AssemblyReference.cache
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\obj\Debug\net5.0\Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\obj\Debug\net5.0\Blacksmith.AssemblyInfoInputs.cache
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\obj\Debug\net5.0\Blacksmith.AssemblyInfo.cs
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\obj\Debug\net5.0\Blacksmith.csproj.CoreCompileInputs.cache
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\obj\Debug\net5.0\Blacksmith.dll
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\obj\Debug\net5.0\refint\Blacksmith.dll
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\obj\Debug\net5.0\Blacksmith.pdb
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\obj\Debug\net5.0\Blacksmith.genruntimeconfig.cache
+C:\Users\5Nitro\source\repos\Blacksmith\Blacksmith\obj\Debug\net5.0\ref\Blacksmith.dll
